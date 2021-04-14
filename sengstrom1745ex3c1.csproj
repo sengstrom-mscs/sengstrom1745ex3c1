@@ -140,7 +140,8 @@
     <Content Include="images\WELCOME-banner-shop.gif" />
     <Content Include="images\WP_20131206_001 %281%29.jpg" />
     <Content Include="images\WP_20131206_001.jpg" />
-    <Content Include="Main.html" />
+    <Content Include="Default.html" />
+    <Content Include="Soaps.html" />
     <Content Include="styles\safire.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -149,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\sengstrom1745ex3cVersion1 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
